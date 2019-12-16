@@ -6,4 +6,5 @@ CMD echo "Auto build trigger" >> /usr/share/nginx/html
 CMD echo "Auto build trigger2" >> /usr/share/nginx/html
 CMD echo "Auto build trigger3" >> /usr/share/nginx/html
 CMD echo "Anchor scan " >> /usr/share/nginx/html
+CMD echo "Anchor scan2 " >> /usr/share/nginx/html
 
