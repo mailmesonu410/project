@@ -1,4 +1,4 @@
 FROM centos
-EXPOSE 9000
+EXPOSE 9090
 VOLUME /mnt/docker_vol  /app
 
