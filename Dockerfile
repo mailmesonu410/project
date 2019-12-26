@@ -1,4 +1,4 @@
-FROM openjdk:8-jdk-alpine
+FROM alpine
 VOLUME /tmp
 ARG JAR_FILE1
 COPY ${JAR_FILE1} app.jar
